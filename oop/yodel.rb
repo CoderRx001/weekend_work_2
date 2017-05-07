@@ -10,6 +10,14 @@
 
 class Yodel
 
+  def segment_by i
+    array[0]
+  end
+
+  def articulate
+    
+  end
+
 end
 
 
